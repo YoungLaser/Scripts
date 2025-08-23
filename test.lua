@@ -1,3 +1,3 @@
-local fun = { "apple", "banana", "chicken" }
+   local fun = { "apple", "banana", "chicken" }
 
-print(table.concat(fun, ","))
+   print(table.concat(fun, ","))
